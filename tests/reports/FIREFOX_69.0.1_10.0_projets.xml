@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="projets"
+    errors="0" failures="0" hostname="" id="" package="projets" skipped="0"
+    tests="3" time="15.95" timestamp="Tue, 08 Oct 2019 02:23:32 GMT">
+  
+    <testcase name="Page de projets" classname="projets" time="5.191" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Page du projet de Mailloux" classname="projets" time="5.132" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Page du projet de Bourgoin" classname="projets" time="5.624" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="publications"
+    errors="0" failures="1" hostname="" id="" package="publications" skipped="0"
+    tests="1" time="7.947" timestamp="Tue, 08 Oct 2019 02:23:48 GMT">
+  
+    <testcase name="Page de publications" classname="publications" time="7.947" assertions="21">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Expected element &lt;#elementsPerPageSection&gt; to have value that equals: &#34;10&#34;">    at Object.Page de publications (C:\Users\felix\Documents\School\LOG4420\LOG4420-TP2\tests\e2e\publications.js:134:8)
+    at processTicksAndRejections (internal/process/next_tick.js:74:9)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

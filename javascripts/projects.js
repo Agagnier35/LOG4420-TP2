@@ -1,0 +1,1 @@
+$("#projects-link").addClass("active");

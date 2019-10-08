@@ -1,0 +1,1 @@
+$("#team-link").addClass("active");
